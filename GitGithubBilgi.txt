@@ -42,6 +42,12 @@ bulunduğumuz dizinin içeriğini listeler.
 pwd:
 bulunduğumuz konumu gösterir.
 
+Visual Studio için .gitignore dosyası örneği:
+
+https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
+
+clear:
+ekranı temizler
 
 
 
