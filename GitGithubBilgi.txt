@@ -1,0 +1,60 @@
+GİT: (Versiyon Kontrol Sistemi)
+Git, acık kaynaklı ve dağıtık bir versiyon kontrol sistemidir. Yazılım projelerinde değişikliklerin izlenmesi ve yönetilmesi için kullanılır. Linus Torvalds tarafından 2005 yılında Linux Çekirdek geliştirme sürecini desteklemek amacıyla geliştirilmiştir. 
+
+Benzerleri:
+Sunversion (SVN), Mercurial, Perforce, Bazaar, TFS
+
+GITHUB:
+Git versiyon kontrol sistemini kullanarak projelerimizi barındırmamıza, yönetmemize ve paylaşmamıza olanak sağlayan web tabanlı bir platformdur. 2008 yılında kurulan ve 2018 yılında Microsoft tarafından satın alınan github dünya çapında milyonlarca geliştirici tarafından kullanılmaktadır. 
+
+Benzerleri:
+Gitlab, Bitbucket, SourceForge, Gitea, Gogs gibi.
+
+Gitbash:
+
+Klasöre konumlandık:
+cd '<dosya yolu>'
+
+Yeni bir klasör oluşturduk:
+mkdir FirstProject
+
+Bu klasöre konumlandık:
+cd FirstProject
+
+Yeni bir dosya oluşturduk:
+touch GitGithubBilgi.txt
+
+git init:
+Klasöre git versiyon kontrol sistemini entegre eder.
+
+git add GitGithubBilgi.txt:
+Bu dosyanın git tarafından takip edilmesini sağladık.
+
+git status:
+Bekleyen herhangi bir işlem var mı bunu gösterir.
+
+git log:
+Tüm commitlerimizi görüntüledik.
+
+ls komutu:
+bulunduğumuz dizinin içeriğini listeler.
+
+pwd:
+bulunduğumuz konumu gösterir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
