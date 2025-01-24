@@ -30,6 +30,9 @@ Klasöre git versiyon kontrol sistemini entegre eder.
 git add GitGithubBilgi.txt:
 Bu dosyanın git tarafından takip edilmesini sağladık.
 
+git add .
+dizinde bulunan tüm dosyaları versiyon kontrol sistemine ekler.
+
 git status:
 Bekleyen herhangi bir işlem var mı bunu gösterir.
 
@@ -48,6 +51,8 @@ https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 clear:
 ekranı temizler
+
+
 
 
 
