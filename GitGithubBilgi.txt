@@ -51,6 +51,7 @@ https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 clear:
 ekranı temizler.
+Visual studio üzerinden deneme yapıyoruz.
 
 
 
